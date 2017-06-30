@@ -1,0 +1,7 @@
+.gradle
+.classpath
+.settings
+bin
+build
+classes_instrumented
+.project
